@@ -1,0 +1,91 @@
+2020-02-27 16:43:52,907 INFO  [Log] Open Applicatuion 
+2020-02-27 16:44:05,438 INFO  [Log] Login 
+2020-02-27 16:44:05,563 INFO  [Log] Logout 
+2020-02-27 16:44:06,819 INFO  [Log] Close Browser 
+2020-02-27 16:44:16,551 INFO  [Log] Open Applicatuion 
+2020-02-27 16:44:16,563 INFO  [Log] Verify Title 
+2020-02-27 16:44:22,154 INFO  [Log] Login 
+2020-02-27 16:44:22,471 INFO  [Log] Verify Text 
+2020-02-27 16:44:22,575 INFO  [Log] Logout 
+2020-02-27 16:44:23,417 INFO  [Log] Close Browser 
+2020-02-27 16:44:30,511 INFO  [Log] Open Applicatuion 
+2020-02-27 16:44:35,569 INFO  [Log] Login 
+2020-02-27 16:44:36,401 INFO  [Log] MouseHover Add Employee 
+2020-02-27 16:44:39,873 INFO  [Log] Enter frame 
+2020-02-27 16:44:42,874 INFO  [Log] Wait Statement 
+2020-02-27 16:44:54,319 INFO  [Log] Add Employee 
+2020-02-27 16:44:54,326 INFO  [Log] Exit Frame 
+2020-02-27 16:44:54,452 INFO  [Log] Logout 
+2020-02-27 16:44:55,522 INFO  [Log] Close Browser 
+2020-02-27 17:39:21,024 INFO  [Log] Open Applicatuion 
+2020-02-27 17:39:32,241 INFO  [Log] Login 
+2020-02-27 17:39:32,402 INFO  [Log] Logout 
+2020-02-27 17:39:33,194 INFO  [Log] Close Browser 
+2020-02-27 17:39:40,121 INFO  [Log] Open Applicatuion 
+2020-02-27 17:39:40,139 INFO  [Log] Verify Title 
+2020-02-27 17:39:48,681 INFO  [Log] Login 
+2020-02-27 17:39:48,895 INFO  [Log] Verify Text 
+2020-02-27 17:39:49,047 INFO  [Log] Logout 
+2020-02-27 17:39:50,226 INFO  [Log] Close Browser 
+2020-02-27 17:39:57,840 INFO  [Log] Open Applicatuion 
+2020-02-27 17:40:03,321 INFO  [Log] Login 
+2020-02-27 17:40:03,800 INFO  [Log] MouseHover Add Employee 
+2020-02-27 17:40:04,043 INFO  [Log] Enter frame 
+2020-02-27 17:40:07,043 INFO  [Log] Wait Statement 
+2020-02-27 17:40:17,267 INFO  [Log] Add Employee 
+2020-02-27 17:40:17,284 INFO  [Log] Exit Frame 
+2020-02-27 17:40:17,481 INFO  [Log] Logout 
+2020-02-27 17:40:18,230 INFO  [Log] Close Browser 
+2020-02-27 22:57:52,639 INFO  [Log] Open Applicatuion 
+2020-02-27 22:58:11,093 INFO  [Log] Login 
+2020-02-27 22:58:11,214 INFO  [Log] Logout 
+2020-02-27 22:58:12,134 INFO  [Log] Close Browser 
+2020-02-27 22:58:18,736 INFO  [Log] Open Applicatuion 
+2020-02-27 22:58:18,756 INFO  [Log] Verify Title 
+2020-02-27 22:58:23,531 INFO  [Log] Login 
+2020-02-27 22:58:23,640 INFO  [Log] Verify Text 
+2020-02-27 22:58:23,749 INFO  [Log] Logout 
+2020-02-27 22:58:24,531 INFO  [Log] Close Browser 
+2020-02-27 22:58:32,107 INFO  [Log] Open Applicatuion 
+2020-02-27 22:58:36,896 INFO  [Log] Login 
+2020-02-27 22:58:37,487 INFO  [Log] MouseHover Add Employee 
+2020-02-27 22:58:37,664 INFO  [Log] Enter frame 
+2020-02-27 22:58:40,675 INFO  [Log] Wait Statement 
+2020-02-27 22:58:54,055 INFO  [Log] Add Employee 
+2020-02-27 22:58:54,070 INFO  [Log] Exit Frame 
+2020-02-27 22:58:54,201 INFO  [Log] Logout 
+2020-02-27 22:58:54,914 INFO  [Log] Close Browser 
+2020-02-27 23:38:01,351 INFO  [Log] Open Applicatuion 
+2020-02-27 23:38:23,256 INFO  [Log] Login 
+2020-02-27 23:38:23,379 INFO  [Log] Logout 
+2020-02-27 23:38:24,234 INFO  [Log] Close Browser 
+2020-02-27 23:38:35,720 INFO  [Log] Open Applicatuion 
+2020-02-27 23:38:36,862 INFO  [Log] Verify Title 
+2020-02-27 23:39:11,132 INFO  [Log] Login 
+2020-02-27 23:39:12,969 INFO  [Log] Verify Text 
+2020-02-27 23:39:23,009 INFO  [Log] Logout 
+2020-02-27 23:39:23,690 INFO  [Log] Close Browser 
+2020-02-27 23:39:39,810 INFO  [Log] Open Applicatuion 
+2020-02-27 23:39:53,091 INFO  [Log] Login 
+2020-02-27 23:39:53,775 INFO  [Log] MouseHover Add Employee 
+2020-02-27 23:39:53,980 INFO  [Log] Enter frame 
+2020-02-27 23:39:56,980 INFO  [Log] Wait Statement 
+2020-02-27 23:40:10,873 INFO  [Log] Add Employee 
+2020-02-27 23:40:10,890 INFO  [Log] Exit Frame 
+2020-02-27 23:40:11,020 INFO  [Log] Logout 
+2020-02-27 23:40:11,673 INFO  [Log] Close Browser 
+2020-02-27 23:41:20,048 INFO  [Log] Open Applicatuion 
+2020-02-27 23:41:56,576 INFO  [Log] Login 
+2020-02-27 23:42:06,033 INFO  [Log] Logout 
+2020-02-27 23:42:06,685 INFO  [Log] Close Browser 
+2020-02-27 23:42:15,696 INFO  [Log] Open Applicatuion 
+2020-02-27 23:42:16,489 INFO  [Log] Verify Title 
+2020-02-27 23:42:46,101 INFO  [Log] Login 
+2020-02-27 23:42:47,530 INFO  [Log] Verify Text 
+2020-02-27 23:42:56,839 INFO  [Log] Logout 
+2020-02-27 23:42:57,441 INFO  [Log] Close Browser 
+2020-02-27 23:43:05,568 INFO  [Log] Open Applicatuion 
+2020-02-27 23:43:44,275 INFO  [Log] Login 
+2020-02-27 23:44:05,642 INFO  [Log] MouseHover Add Employee 
+2020-02-27 23:44:08,824 INFO  [Log] Enter frame 
+2020-02-27 23:44:11,824 INFO  [Log] Wait Statement 
